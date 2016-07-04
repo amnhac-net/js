@@ -14,8 +14,8 @@ function loadScript(url, callback) {
     script.onload = callback;
     head.appendChild(script);
 }
-var jquery_func = function() {};
-loadScript("//code.jquery.com/jquery-1.12.0.min.js", jquery_func);
+//var jquery_func = function() {};
+//loadScript("//code.jquery.com/jquery-1.12.0.min.js", jquery_func);
 var jwplayer_func = function() {};
 loadScript("http://clip.amnhac.net/jwplayer/jwplayer.js", jwplayer_func);
 var amnhacnet_ad_func = function() {};
