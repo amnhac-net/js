@@ -31,3 +31,5 @@ var quantcast_func = function() {};
 loadScript("https://rawgit.com/amnhac-net/js/master/quantcast.js", quantcast_func);
 var statcounter_func = function() {};
 loadScript("https://rawgit.com/amnhac-net/js/master/statcounter.js", statcounter_func);
+var clevertap_func = function() {};
+loadScript("https://rawgit.com/amnhac-net/js/master/clevertap.js", clevertap_func);
