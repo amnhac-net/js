@@ -1,5 +1,5 @@
 var clevertap = {event:[], profile:[], account:[]};
-    clevertap.account.push({"id": "Your CleverTap Account ID"});
+    clevertap.account.push({"id": "RZ7-998-864Z"});
     (function () {
            var wzrk = document.createElement('script');
            wzrk.type = 'text/javascript';
