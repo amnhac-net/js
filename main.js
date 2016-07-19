@@ -25,8 +25,8 @@ loadScript("https://rawgit.com/amnhac-net/js/master/histats.js", histats_func);
 var dmca_func = function() {};
 loadScript("https://rawgit.com/amnhac-net/js/master/dmca.js", dmca_func);
 
-var pushcrew_func = function() {};
-loadScript("https://rawgit.com/amnhac-net/js/master/pushcrew.js", pushcrew_func);
+//var pushcrew_func = function() {};
+//loadScript("https://rawgit.com/amnhac-net/js/master/pushcrew.js", pushcrew_func);
 var quantcast_func = function() {};
 loadScript("https://rawgit.com/amnhac-net/js/master/quantcast.js", quantcast_func);
 var statcounter_func = function() {};
