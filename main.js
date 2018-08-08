@@ -17,7 +17,7 @@ function loadScript(url, callback) {
 //var jquery_func = function() {};
 //loadScript("//code.jquery.com/jquery-1.12.0.min.js", jquery_func);
 var jwplayer_func = function() {};
-loadScript("http://clip.amnhac.net/jwplayer/jwplayer.js", jwplayer_func);
+loadScript("https://clip.amnhac.net/jwplayer/7.7.1/jwplayer.js", jwplayer_func);
 var amnhacnet_ad_func = function() {};
 loadScript("https://rawgit.com/amnhac-net/js/master/amnhacnet_ad.js", amnhacnet_ad_func);
 var histats_func = function() {};
